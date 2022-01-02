@@ -1,0 +1,45 @@
+.chat_message{
+  width:100%;
+  height:auto;
+  border:1px solid lightgray;
+  background-color:#08f;
+  color:#fff;
+}
+
+html{
+ overflow:auto;
+}
+
+.message_box{
+  width:100%;
+  height:auto;
+  color:black;
+}
+
+.form-control:focus{
+  box-shadow:none !important;
+}
+
+p{
+ margin-left:1%;
+ margin-top:1%;
+}
+
+.form-control{
+  border-radius:40px;
+}
+
+.card{
+  margin-top:1%;
+  border-radius:50px;
+  background-color:brown;
+  color:#fff;
+}
+
+body{
+ width:100%;
+ height:auto;
+ background-image:url("../img/bg_chat_app.jpg");
+ background-size:cover;
+ background-repeat:no-repeat;
+}
